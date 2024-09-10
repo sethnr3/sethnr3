@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **Java, Python, PHP, MongoDB, MySQL, Nodejs**
 
 - 📫 How to reach me **seth.20211344@iit.ac.lk**
+- 📫 How to reach me **sethrajarathne@gmail.com**
 
 - ⚡ Fun fact **coder,tech enthusiast and love to watch sci-fi series**
 
