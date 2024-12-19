@@ -28,6 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sethnr3&show_icons=true&locale=en" alt="sethnr3" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sethnr3&theme=light&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sethnr3&theme=dark&hide_border=true" alt="GitHub Streak Stats">
 </p>
+
 
