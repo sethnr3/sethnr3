@@ -36,16 +36,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-| 🚀 Project | 📝 Description | 🧰 Tech Stack |
-|-----------|----------------|---------------|
-| **MindEase** | AI-powered platform for mental wellness with mood tracking | React, Node.js, MongoDB, NLP |
-| **Crop Guardian** | Detects crop diseases using CNN & community features | Python, TensorFlow, Flask, React Native |
-| **Inventory Manager** | Manages products, brands, promotions with full CRUD | React, Node.js, MySQL |
-
----
-
 ### 📌 Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,nodejs,mysql,mongodb,docker,aws,figma" alt="Languages and Tools" />
