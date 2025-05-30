@@ -1,3 +1,9 @@
+<!-- Profile Views Badge -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=sethnr3&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<!-- Typing Heading -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=50F73B&width=435&lines=Welcome+to+my+GitHub+Profile!!!;I'm+Seth+Rajarathne+%F0%9F%91%8B;Follow+for+cool+projects+and+AI+stuff!)](https://git.io/typing-svg)
 
 <h1 align="center">👋 Hello, I'm Seth Rajarathne</h1>
@@ -11,17 +17,17 @@
 
 ### 👨‍💻 About Me
 - 🎓 BSc (Hons) in **Artificial Intelligence & Data Science**
-- 💡 Interested in AI, Web Development, and Open Source
-- 🌱 Currently learning: `Java`, `Python`, `PHP`, `MongoDB`, `MySQL`, `Node.js`
-- 📧 Reach me at:
-  - ✉️ seth.20211344@iit.ac.lk
-  - ✉️ sethrajarathne@gmail.com
-- ⚡ Fun fact: I love Sci-Fi & building cool tech projects 🚀
+- 💡 Passionate about AI, Web Dev, and solving real-world problems with tech
+- 🌱 Currently exploring: `Java`, `Python`, `PHP`, `MongoDB`, `MySQL`, `Node.js`
+- 📫 Contact me:
+  - 📧 `seth.20211344@iit.ac.lk`
+  - 📧 `sethrajarathne@gmail.com`
+- ⚡ Fun fact: I love Sci-Fi & experimenting with new tools and APIs!
 
 ---
 
 ### 🔗 Connect With Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/seth-rajarathne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/sethnr3" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" alt="Stack Overflow"/></a>
   <a href="https://instagram.com/seth_nr3" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Instagram"/></a>
@@ -32,22 +38,22 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🧠 **MindEase - AI Mental Health Platform** | A chatbot-powered web platform for mental wellness with mood tracking and sentiment analysis | React, Node.js, MongoDB, NLP |
-| 🌾 **Crop Guardian App** | Mobile app for detecting crop diseases using CNN and providing community support | Python, TensorFlow, Flask, React Native |
-| 📦 **Inventory Manager** | Full-stack app for managing product inventory, brands, and promotions | React, Node.js, MySQL |
+| 🚀 Project | 📝 Description | 🧰 Tech Stack |
+|-----------|----------------|---------------|
+| **MindEase** | AI-powered platform for mental wellness with mood tracking | React, Node.js, MongoDB, NLP |
+| **Crop Guardian** | Detects crop diseases using CNN & community features | Python, TensorFlow, Flask, React Native |
+| **Inventory Manager** | Manages products, brands, promotions with full CRUD | React, Node.js, MySQL |
 
+---
 
-
-### ⚙️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,nodejs,mysql,mongodb,docker,aws,figma" alt="Skills" />
+### 📌 Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,nodejs,mysql,mongodb,docker,aws,figma" alt="Languages and Tools" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sethnr3&show_icons=true&theme=radical" width="48%" />
@@ -60,15 +66,9 @@
 
 ---
 
-### 💬 Quote of the Day / Tech Tip
+### 💡 Quote of the Day / Tech Tip
 
 > “The best way to predict the future is to invent it.” – Alan Kay  
-> 💡 *Tech Tip*: Don't repeat yourself (DRY). Extract reusable components and functions to keep your code clean and efficient.
+> 💡 *Tech Tip*: Build small, reusable components. It saves time and keeps your codebase clean!
 
 ---
-
-### 📈 Profile Visitors
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sethnr3&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
