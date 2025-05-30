@@ -32,30 +32,13 @@
 
 ### 🌟 Featured Projects
 
-| Project | Description | Tech Stack | Demo |
-|--------|-------------|------------|------|
-| 🧠 **MindEase - AI Mental Health Platform** | A chatbot-powered web platform for mental wellness with mood tracking and sentiment analysis | React, Node.js, MongoDB, NLP | [🔗 View Project](https://github.com/sethnr3/mindease) |
-| 🌾 **Crop Guardian App** | Mobile app for detecting crop diseases using CNN and providing community support | Python, TensorFlow, Flask, React Native | [🔗 View Project](https://github.com/sethnr3/crop-guardian) |
-| 📦 **Inventory Manager** | Full-stack app for managing product inventory, brands, and promotions | React, Node.js, MySQL | [🔗 View Project](https://github.com/sethnr3/inventory-system) |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🧠 **MindEase - AI Mental Health Platform** | A chatbot-powered web platform for mental wellness with mood tracking and sentiment analysis | React, Node.js, MongoDB, NLP |
+| 🌾 **Crop Guardian App** | Mobile app for detecting crop diseases using CNN and providing community support | Python, TensorFlow, Flask, React Native |
+| 📦 **Inventory Manager** | Full-stack app for managing product inventory, brands, and promotions | React, Node.js, MySQL |
 
----
 
-### 📌 Pinned Projects
-
-#### 📱 Crop Guardian
-<img src="https://github.com/sethnr3/crop-guardian/blob/main/assets/demo.gif" width="100%" alt="Crop Guardian Demo GIF"/>
-
----
-
-#### 🧠 MindEase
-<img src="https://github.com/sethnr3/mindease/blob/main/public/preview.png" width="100%" alt="MindEase Screenshot"/>
-
----
-
-#### 📊 Inventory Manager
-<img src="https://github.com/sethnr3/inventory-system/blob/main/public/dashboard.png" width="100%" alt="Inventory Manager Screenshot"/>
-
----
 
 ### ⚙️ Languages & Tools
 <p>
