@@ -28,7 +28,7 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/seth-rajarathne" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
+  <a href="[https://linkedin.com/in/seth-rajarathne](https://www.linkedin.com/in/seth-rajarathne-735bb4265/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/></a>
   <a href="https://stackoverflow.com/users/sethnr3" target="_blank"><img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" alt="Stack Overflow"/></a>
   <a href="https://instagram.com/seth_nr3" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&style=for-the-badge" alt="Instagram"/></a>
   <a href="https://www.hackerearth.com/@sethrajarathne" target="_blank"><img src="https://img.shields.io/badge/HackerEarth-black?logo=hackerearth&style=for-the-badge" alt="HackerEarth"/></a>
