@@ -59,6 +59,6 @@
 ### 💡 Quote of the Day / Tech Tip
 
 > “The best way to predict the future is to invent it.” – Alan Kay  
-> 💡 *Tech Tip*: Build small, reusable components. It saves time and keeps your codebase clean!
+> 💡 *Tech Tip*: Build small, reusable components. It saves time and keeps your codebase clean!    
 
 ---
