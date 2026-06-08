@@ -122,11 +122,6 @@ A mobile application designed to detect crop diseases and pests using machine le
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sethnr3&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethnr3&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sethnr3&theme=radical" alt="GitHub Streak" />
 </p>
 
