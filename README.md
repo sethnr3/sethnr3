@@ -111,30 +111,6 @@ A mobile application designed to detect crop diseases and pests using machine le
 
 ---
 
-## 📌 Tools & Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,express,mysql,mongodb,firebase,git,github,postman,figma" alt="Languages and Tools" />
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/seth-rajarathne" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/27038724/seth-rajarathne" target="_blank">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" alt="Stack Overflow"/>
-  </a>
-  <a href="https://www.hackerearth.com/@sethrajarathne" target="_blank">
-    <img src="https://img.shields.io/badge/HackerEarth-black?logo=hackerearth&style=for-the-badge" alt="HackerEarth"/>
-  </a>
-</p>
-
----
-
 ## 📫 Contact Me
 
 * 📧 Email: `sethrajarathne@gmail.com`
